@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ldb297/my-first-node-project/issues"
   },
-  "homepage": "https://github.com/ldb297/my-first-node-project#readme"
+  "homepage": "https://github.com/ldb297/my-first-node-project#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
