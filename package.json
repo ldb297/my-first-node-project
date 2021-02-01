@@ -1,0 +1,22 @@
+{
+  "name": "my-first-node-project",
+  "version": "1.0.0",
+  "description": "My First Node Project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldb297/my-first-node-project.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Leo Brooks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldb297/my-first-node-project/issues"
+  },
+  "homepage": "https://github.com/ldb297/my-first-node-project#readme"
+}
